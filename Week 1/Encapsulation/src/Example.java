@@ -1,4 +1,8 @@
-import models.Person;
+import models.*;
+
+
+import java.util.Arrays;
+
 public class Example {
     public static void main(String[] args){
 //      Create an empty person class and use setter method to set name
